@@ -1,3 +1,4 @@
 GlobalLogin()
 LocalLogin()
+MergeCommit()
 HomePage()
