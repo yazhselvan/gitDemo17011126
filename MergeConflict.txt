@@ -1,3 +1,2 @@
 GlobalLogin()
 LocalLogin()
-HomePage()
