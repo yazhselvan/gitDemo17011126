@@ -1,2 +1,3 @@
 GlobalLogin()
 LocalLogin()
+MergeCommit()
